@@ -35,10 +35,10 @@ Welcome to my GitHub profile! I'm a **skilled software developer** with expertis
 
 ## 📫 How to Reach Me
 
-- 📧 **Email**: [your.email@example.com](mailto:your.email@example.com)
-- 🌐 **Website**: [The Champ](https://thechamp.com)
+- 📧 **Email**: [usmangourworkid@gmail.com](mailto:usmangourworkid@gmail.com)
+- 🌐 **Website**: [The Champ](https://thechampsoftwares.netlify.app/)
 - 🐦 **Twitter**: [@yourusername](https://twitter.com/yourusername)
-- 🔗 **LinkedIn**: [Your Name](https://linkedin.com/in/yourusername)
+- 🔗 **LinkedIn**: [Usman Gour](https://www.linkedin.com/in/thechampusman/)
 
 ---
 
