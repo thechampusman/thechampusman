@@ -42,6 +42,11 @@ Welcome to my GitHub profile! I'm a **skilled software developer** with expertis
 
 ---
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=AasheeshLikePanner&theme=transparent&no-frame=false&no-bg=true&margin-w=4)
+
+---
+
 ## 📊 Fun Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thechampusman&layout=compact&theme=dark)
