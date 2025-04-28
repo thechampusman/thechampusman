@@ -4,9 +4,9 @@
 
 Welcome to my GitHub profile! I'm a **skilled software developer** with expertise in:
 
-- 🌐 **Web & App Development** (Flutter, Dart, Android, Windows)
+- 🌐 **Web & App Development** (Flutter, Dart, Android, Windows, Python (Flask))
 - 📱 **Mobile Solutions** (Android apps, Bluetooth integration, Flutter apps)
-- 🧠 **AI/Assistant Development** (Custom AI assistants with multilingual support)
+- 🧠 **AI/Assistant Development** (Fine tune LLM Models for self)
 - 🔧 **Windows Tools Development** (Flutter-Win32 integrations, system utilities like 'Prime Win Tool')
 - 💻 **Clean Code Advocate** (Focus on robust, clean, and maintainable code)
 
@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm a **skilled software developer** with expertis
 ## 🔭 Current Projects
 
 - **Prime Win Tool**: A Flutter-based Windows utility for system optimization and unlimited clipboard functionality.
-- **Super Admin App**: Managing Firestore-admins efficiently, integrating seamless UI with real-time data fetching.
+- **MarketExpert**: Managing Firestore-admins efficiently, integrating seamless UI with real-time data fetching.
 - **TVMaze App**: An app fetching TV shows with Netflix-like UI.
 
 ---
