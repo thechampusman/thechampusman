@@ -78,7 +78,7 @@ I love solving real-world problems with clean, scalable code and have delivered 
 
 ## 🏆 GitHub Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=thechampusman&theme=gruvbox&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=AasheeshLikePanner&theme=transparent&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
