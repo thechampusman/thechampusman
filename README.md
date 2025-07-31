@@ -45,25 +45,67 @@
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400">
 </div>
 
-<div align="left">
+<div align="center">
 
 ### 🧑‍💻 About Me
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuff...***
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Getting to know me better...***
 
+</div>
+
+<br/>
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 👤 Personal Info
 ```yaml
 name: "Usman Gour"
-located_in: "Delhi, India"
-current_job: "B.Tech CSE Student (3rd Year)"
-education: ["Computer Science Engineering", "Self-taught Developer"]
-company: "Freelance Full Stack Developer"
-
-fields_of_interests: ["Mobile Development", "System Programming", "Cloud Architecture"]
-technical_background: ["Flutter", "Python", "Firebase", "REST APIs", "Win32 API"]
-currently_learning: ["DSA in Python", "System Design", "AI Automation"]
-goal: "Google SDE"
-hobbies: ["ROM Development", "System Optimization", "Problem Solving"]
+location: "Delhi, India 🇮🇳"
+status: "B.Tech CSE Student (3rd Year)"
+role: "Freelance Full Stack Developer"
 ```
+
+### 🎓 Education & Background
+- 🎓 **Computer Science Engineering**
+- 💻 **Self-taught Developer**
+- 🚀 **3+ Years Experience**
+
+</td>
+<td align="center" width="50%">
+
+### 🎯 Professional Focus
+```yaml
+specialization: ["Mobile Development", "Backend APIs", "System Programming"]
+current_tech: ["Flutter & Dart", "Python", "Firebase", "REST APIs"]
+learning_path: ["DSA in Python", "System Design", "AI Automation"]
+career_goal: "Google SDE Position"
+```
+
+### 🔧 What I Love Building
+- 📱 **Cross-platform Mobile Apps**
+- 🖥️ **Desktop Applications**
+- ⚙️ **System Optimization Tools**
+
+</td>
+</tr>
+</table>
+</div>
+
+<div align="center">
+
+### 🎨 My Development Journey
+
+<img src="https://img.shields.io/badge/Experience-3%2B%20Years-brightgreen?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Projects-10%2B%20Completed-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Technologies-15%2B%20Mastered-orange?style=for-the-badge"/>
+
+**🌟 Core Expertise:** Flutter Development • Python Backend • System Programming  
+**🎯 Current Mission:** LeetCode grinding & System Design mastery  
+**⚡ Fun Achievement:** Built and published ROM distribution platform with 1K+ downloads!  
+**🚀 Ultimate Goal:** Join Google and impact billions of users worldwide!
 
 </div>
 
@@ -80,7 +122,7 @@ hobbies: ["ROM Development", "System Optimization", "Problem Solving"]
 ⚡ **Fun fact:** I've ported Android ROMs and built my own distribution platform!  
 🌟 **Dream:** To work at Google and contribute to products used by billions!
 
-
+<img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&animation=grow_out_in&layout=churchill&font=Redressed"/>
 
 </div>
 
