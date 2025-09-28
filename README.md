@@ -427,7 +427,7 @@ response_time: "Within 24 hours"
 <br/>
 
 <img width="400em" src="https://github-readme-stats.vercel.app/api?username=thechampusman&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&count_private=true&include_all_commits=true"/>
-<img width="400em" src="[https://streak-stats.demolab.com/?user=thechampusman&theme=tokyonight&hide_border=true&background=0D1117&stroke=0000&ring=F85D7F&fire=F8D866&currStreakLabel=FFFFFF](https://streak-stats.demolab.com/?user=thechampusman&theme=tokyonight&hide_border=true&background=0D1117&stroke=0000&ring=F85D7F&fire=F8D866&currStreakLabel=FFFFFF%22)"/>
+<img width="400em" src="https://streak-stats.demolab.com/?user=thechampusman&theme=tokyonight&hide_border=true&background=0D1117&stroke=0000&ring=F85D7F&fire=F8D866&currStreakLabel=FFFFFF%22"/>
 
 <br/>
 
