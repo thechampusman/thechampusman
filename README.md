@@ -440,7 +440,7 @@ response_time: "Within 24 hours"
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thechampusman&theme=tokyonight"/>
 
-
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thechampusman&theme=tokyonight" width="400em"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thechampusman&theme=tokyonight" width="400em"/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=thechampusman&theme=tokyonight" width="400em"/>
