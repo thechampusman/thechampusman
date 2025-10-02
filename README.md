@@ -1,4 +1,4 @@
-# Hi 👋, I'm Usman Gour<div align="center"><div align="center">
+# Hi 👋, I'm Usman Gour# Hi 👋, I'm Usman Gour<div align="center"><div align="center">
 
 
 
@@ -6,7 +6,7 @@
 
 
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=240&section=header&text=Usman%20Gour&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Flutter%20Enthusiast%20%7C%20Open%20Source%20Contributor&descSize=18&descAlignY=55)<img src="https://capsule-render.vercel.app/api?type=venom&color=0:667eea,25:764ba2,50:f093fb,75:4facfe,100:00f2fe&height=300&section=header&text=USMAN%20GOUR&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20Mobile%20Architect&descSize=20&descAlignY=60" alt="Animated Header"/><## 🎯 About
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=240&section=header&text=Usman%20Gour&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Flutter%20Enthusiast%20%7C%20Open%20Source%20Contributor&descSize=18&descAlignY=55)<div align="center">
 
 
 
@@ -14,7 +14,7 @@
 
 
 
-[![Profile Views](https://komarev.com/ghpvc/?username=thechampusman&style=for-the-badge&color=667eea&label=Profile+Views)](https://github.com/thechampusman)</div>Delhi-based developer specializing in **Flutter**, **Python**, and **Firebase**. I build cross-platform mobile apps, desktop utilities, and reliable backends. Delivered 10+ production projects with 1K+ downloads.
+[![Profile Views](https://komarev.com/ghpvc/?username=thechampusman&style=for-the-badge&color=667eea&label=Profile+Views)](https://github.com/thechampusman)![Header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=240&section=header&text=Usman%20Gour&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Flutter%20Enthusiast%20%7C%20Open%20Source%20Contributor&descSize=18&descAlignY=55)<img src="https://capsule-render.vercel.app/api?type=venom&color=0:667eea,25:764ba2,50:f093fb,75:4facfe,100:00f2fe&height=300&section=header&text=USMAN%20GOUR&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20Mobile%20Architect&descSize=20&descAlignY=60" alt="Animated Header"/><## 🎯 About
 
 [![GitHub Followers](https://img.shields.io/github/followers/thechampusman?style=for-the-badge&logo=github&logoColor=white&color=764ba2)](https://github.com/thechampusman?tab=followers)
 
@@ -22,7 +22,7 @@
 
 
 
-</div><br/>**💻 Core Stack:** Flutter · Dart · Python · Flask · Firebase · MongoDBapsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Usman%20Gour&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" alt="Header"/>
+</div>[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Mobile+%26+Desktop+App+Developer;Python+Backend+Specialist;Firebase+%26+Cloud+Architecture;Building+Digital+Solutions;Always+Learning+New+Technologies)](https://git.io/typing-svg)
 
 
 
@@ -30,15 +30,15 @@
 
 
 
-## 🧠 About Me<div align="center"><h2> Full Stack Developer | Mobile App Architect</h2>
+## 🧠 About Me[![Profile Views](https://komarev.com/ghpvc/?username=thechampusman&style=for-the-badge&color=667eea&label=Profile+Views)](https://github.com/thechampusman)</div>Delhi-based developer specializing in **Flutter**, **Python**, and **Firebase**. I build cross-platform mobile apps, desktop utilities, and reliable backends. Delivered 10+ production projects with 1K+ downloads.
 
 
 
-I'm a passionate **Full-Stack Developer** from Delhi, India, with over 3 years of experience building scalable mobile applications, desktop utilities, and robust backend systems. I specialize in **Flutter**, **Python**, and **Firebase**, with a strong focus on creating user-centric solutions that solve real-world problems.
+I'm a passionate **Full-Stack Developer** from Delhi, India, with over 3 years of experience building scalable mobile applications, desktop utilities, and robust backend systems. I specialize in **Flutter**, **Python**, and **Firebase**, with a strong focus on creating user-centric solutions that solve real-world problems.[![GitHub Followers](https://img.shields.io/github/followers/thechampusman?style=for-the-badge&logo=github&logoColor=white&color=764ba2)](https://github.com/thechampusman?tab=followers)
 
 
 
-My journey in software development has led me to deliver **10+ production-ready projects** with over **1K+ downloads** on the Play Store. I'm driven by the desire to build products that not only function flawlessly but also provide exceptional user experiences.### 🌟 Crafting Digital Excellence Since 2021<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=480&lines=Flutter+%26+Python+Specialist;3%2B+Years+Experience;Mobile+%7C+Desktop+%7C+Backend;Building+Amazing+Products" alt="Typing banner" />
+My journey in software development has led me to deliver **10+ production-ready projects** with over **1K+ downloads** on the Play Store. I'm driven by the desire to build products that not only function flawlessly but also provide exceptional user experiences.[![Website](https://img.shields.io/badge/Portfolio-Visit-orange?style=for-the-badge&logo=google-chrome&logoColor=white)](https://thechampsoftwares.netlify.app)
 
 
 
@@ -46,110 +46,261 @@ My journey in software development has led me to deliver **10+ production-ready 
 
 - 🌱 I'm currently learning **System Design & AI Integration**
 
-- 💬 Ask me about **Flutter, Python, Firebase, Mobile Development**<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2000&pause=800&color=667EEA&center=true&vCenter=true&width=600&height=80&lines=🚀+Flutter+%26+Dart+Expert;🐍+Python+Backend+Specialist;☁️+Firebase+%26+Cloud+Architect;📱+10%2B+Production+Apps+Shipped;💎+Building+Amazing+Experiences" alt="Dynamic Skills"/>[![Profile Views](https://komarev.com/ghpvc/?username=thechampusman&style=for-the-badge&color=0e75b6)](https://github.com/thechampusman)
+- 💬 Ask me about **Flutter, Python, Firebase, Mobile Development**</div><br/>**💻 Core Stack:** Flutter · Dart · Python · Flask · Firebase · MongoDBapsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Usman%20Gour&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" alt="Header"/>
 
 - 👯 I'm looking to collaborate on **Open Source Projects & Innovative Mobile Apps**
 
-- ⚡ Fun fact: **I've built a custom ROM distribution platform that reached 1K+ users!**[![GitHub Followers](https://img.shields.io/github/followers/thechampusman?style=for-the-badge&logo=github)](https://github.com/thechampusman?tab=followers)
+- ⚡ Fun fact: **I've built a custom ROM distribution platform that reached 1K+ users!**
 
 - 🎯 Goal: **Contributing to impactful projects that reach millions of users**
 
-<br/>
+---
 
 ---
 
-</div>
+
 
 ## 🛠️ Tech Stack & Skills
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Delhi%2C+India+🇮🇳;3%2B+Years+Experience;1K%2B+Downloads+on+Play+Store;Always+Learning+%26+Growing)](https://git.io/typing-svg)
+## 🧠 About Me<div align="center"><h2> Full Stack Developer | Mobile App Architect</h2>
 
 ### 📱 **Mobile & Desktop Development**
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)---
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-![Win32](https://img.shields.io/badge/Win32_API-0078D6?style=for-the-badge&logo=windows&logoColor=white)</div>
+![Win32](https://img.shields.io/badge/Win32_API-0078D6?style=for-the-badge&logo=windows&logoColor=white)I'm a passionate **Full-Stack Developer** from Delhi, India, with over 3 years of experience building scalable mobile applications, desktop utilities, and robust backend systems. I specialize in **Flutter**, **Python**, and **Firebase**, with a strong focus on creating user-centric solutions that solve real-world problems.
 
 
 
-### 🐍 **Backend & Languages**## 🎯 Quick Snapshot
+### 🐍 **Backend & Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)<br/>
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)My journey in software development has led me to deliver **10+ production-ready projects** with over **1K+ downloads** on the Play Store. I'm driven by the desire to build products that not only function flawlessly but also provide exceptional user experiences.### 🌟 Crafting Digital Excellence Since 2021<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=480&lines=Flutter+%26+Python+Specialist;3%2B+Years+Experience;Mobile+%7C+Desktop+%7C+Backend;Building+Amazing+Products" alt="Typing banner" />
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)- Delhi, India 🇮🇳 · B.Tech CSE (3rd Year)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 
 
-### 🗄️ **Databases & Cloud**<div align="center">- 3+ years building mobile, desktop and backend systems
+### 🗄️ **Databases & Cloud**### Quick Facts:
 
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)- Flutter, Dart, Python, Flask, Firebase, Win32 integrations
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)- 🌱 I'm currently learning **System Design & AI Integration**
 
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)![Profile Views](https://komarev.com/ghpvc/?username=thechampusman&style=flat-square&color=667eea&label=Profile+Views)- I love turning ideas into fast, reliable, beautiful products
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)- 💬 Ask me about **Flutter, Python, Firebase, Mobile Development**<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2000&pause=800&color=667EEA&center=true&vCenter=true&width=600&height=80&lines=🚀+Flutter+%26+Dart+Expert;🐍+Python+Backend+Specialist;☁️+Firebase+%26+Cloud+Architect;📱+10%2B+Production+Apps+Shipped;💎+Building+Amazing+Experiences" alt="Dynamic Skills"/>[![Profile Views](https://komarev.com/ghpvc/?username=thechampusman&style=for-the-badge&color=0e75b6)](https://github.com/thechampusman)
 
 
 
-### ⚙️ **Tools & Platforms**![GitHub Followers](https://img.shields.io/github/followers/thechampusman?style=flat-square&logo=github&color=764ba2)
+### ⚙️ **Tools & Platforms**- 👯 I'm looking to collaborate on **Open Source Projects & Innovative Mobile Apps**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)![GitHub Stars](https://img.shields.io/github/stars/thechampusman?style=flat-square&logo=github&color=f093fb)> Mission: Build scalable software that’s clean, maintainable and delightful to use.
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)- ⚡ Fun fact: **I've built a custom ROM distribution platform that reached 1K+ users!**[![GitHub Followers](https://img.shields.io/github/followers/thechampusman?style=for-the-badge&logo=github)](https://github.com/thechampusman?tab=followers)
 
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)- 🎯 Goal: **Contributing to impactful projects that reach millions of users**
 
 
 
----</div>---
+---<br/>
 
 
 
-## 📊 GitHub Stats & Activity
+## 📊 GitHub Stats & Activity---
 
 
 
-<div align="center"><br/>## 🧠 About Me
+<div align="center"></div>
 
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=thechampusman&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=FFFFFF&count_private=true" width="48%" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=thechampusman&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=FFFFFF&count_private=true" width="48%" alt="GitHub Stats" />## 🛠️ Tech Stack & Skills
 
 <img src="https://streak-stats.demolab.com?user=thechampusman&theme=tokyonight&hide_border=true&border_radius=15&background=0D1117&stroke=667eea&ring=764ba2&fire=f093fb&currStreakLabel=FFFFFF" width="48%" alt="GitHub Streak" />
 
-<!-- About Section with Custom Styling -->I'm a passionate software developer with hands-on experience shipping mobile, desktop and web backends. I specialize in Flutter (Mobile + Windows), Python Flask APIs and full‑stack cloud integration using Firebase & MongoDB. Delivered 10+ production-grade projects for clients and personal products.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Delhi%2C+India+🇮🇳;3%2B+Years+Experience;1K%2B+Downloads+on+Play+Store;Always+Learning+%26+Growing)](https://git.io/typing-svg)
 
 <br><br>
 
-<h2 align="center">
+### 📱 **Mobile & Desktop Development**
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thechampusman&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0D1117&title_color=667eea&text_color=FFFFFF&langs_count=8" width="48%" alt="Top Languages" />
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=thechampusman&theme=tokyo-night&bg_color=0D1117&color=667eea&line=764ba2&point=f093fb&area=true&hide_border=true&border_radius=15" width="48%" alt="Activity Graph" />![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)---
+
+
+
+</div>![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+
+
+---![Win32](https://img.shields.io/badge/Win32_API-0078D6?style=for-the-badge&logo=windows&logoColor=white)</div>
+
+
+
+## 🚀 Featured Projects
+
+
+
+Here are some of my favorite projects I've been working on 👇### 🐍 **Backend & Languages**## 🎯 Quick Snapshot
+
+
+
+### 🛠️ **PrimeWinTools**![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+*Advanced Windows Productivity Suite*
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)<br/>
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=thechampusman&repo=PrimeWinTools&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0D1117)](https://github.com/thechampusman/PrimeWinTools)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+- **Tech Stack:** ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Win32](https://img.shields.io/badge/Win32-0078D6?style=flat-square&logo=windows&logoColor=white)
+
+- Professional clipboard history manager and system optimization tools![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)- Delhi, India 🇮🇳 · B.Tech CSE (3rd Year)
+
+- Advanced cache cleaning and temporary file management
+
+- 🔗 [Live Demo](#) | 📂 [Repository](https://github.com/thechampusman/PrimeWinTools)
+
+
+
+### 🦄 **Flutter Unicorn CLI**### 🗄️ **Databases & Cloud**<div align="center">- 3+ years building mobile, desktop and backend systems
+
+*Developer Productivity Tool*
+
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=thechampusman&repo=flutter_unicornCLI&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0D1117)](https://github.com/thechampusman/flutter_unicornCLI)
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)- Flutter, Dart, Python, Flask, Firebase, Win32 integrations
+
+- **Tech Stack:** ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![CLI](https://img.shields.io/badge/CLI-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+
+- Powerful command-line interface for Flutter developers![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+- Automates project setup, code generation, and workflows
+
+- 🔗 [Live Demo](#) | 📂 [Repository](https://github.com/thechampusman/flutter_unicornCLI)![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)![Profile Views](https://komarev.com/ghpvc/?username=thechampusman&style=flat-square&color=667eea&label=Profile+Views)- I love turning ideas into fast, reliable, beautiful products
+
+
+
+### 📱 **ROM Distribution Platform**
+
+*Android Community Platform*
+
+### ⚙️ **Tools & Platforms**![GitHub Followers](https://img.shields.io/github/followers/thechampusman?style=flat-square&logo=github&color=764ba2)
+
+- **Tech Stack:** ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+- Custom ROM sharing platform with advanced search capabilities![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+- Published on Google Play Store with 1K+ active downloads
+
+- 🔗 [Play Store](#) | 📂 [Repository](#)![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)![GitHub Stars](https://img.shields.io/github/stars/thechampusman?style=flat-square&logo=github&color=f093fb)> Mission: Build scalable software that’s clean, maintainable and delightful to use.
+
+
+
+### 🔐 **Secure Notes Application**![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+*Full-Stack Security Solution*
+
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+
+- **Tech Stack:** ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+
+- Cross-platform secure notes app with JWT authentication
+
+- End-to-end encryption and real-time synchronization
+
+- 🔗 [Live Demo](#) | 📂 [Repository](#)---</div>---
+
+
+
+---
+
+
+
+## 📝 Latest Blog Posts & Articles## 📊 GitHub Stats & Activity
+
+
+
+<!-- BLOG-POST-LIST:START -->
+
+- [Building Cross-Platform Apps with Flutter: A Complete Guide](https://dev.to/thechampusman/flutter-guide)
+
+- [Python Flask API Development: Best Practices](https://dev.to/thechampusman/flask-api-guide)<div align="center"><br/>## 🧠 About Me
+
+- [Firebase Integration in Mobile Apps: Tips & Tricks](https://dev.to/thechampusman/firebase-mobile-integration)
+
+<!-- BLOG-POST-LIST:END -->
+
+
+
+---<img src="https://github-readme-stats.vercel.app/api?username=thechampusman&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=FFFFFF&count_private=true" width="48%" alt="GitHub Stats" />
+
+
+
+## 🤝 Connect With Me<img src="https://streak-stats.demolab.com?user=thechampusman&theme=tokyonight&hide_border=true&border_radius=15&background=0D1117&stroke=667eea&ring=764ba2&fire=f093fb&currStreakLabel=FFFFFF" width="48%" alt="GitHub Streak" />
+
+
+
+<div align="center"><!-- About Section with Custom Styling -->I'm a passionate software developer with hands-on experience shipping mobile, desktop and web backends. I specialize in Flutter (Mobile + Windows), Python Flask APIs and full‑stack cloud integration using Firebase & MongoDB. Delivered 10+ production-grade projects for clients and personal products.
+
+
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:usmangourworkid@gmail.com)<br><br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thechampusman/)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://thechampsoftwares.netlify.app)<h2 align="center">
+
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/thechampusman)
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/thechampusman)<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thechampusman&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0D1117&title_color=667eea&text_color=FFFFFF&langs_count=8" width="48%" alt="Top Languages" />
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thechampusman)
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=thechampusman&theme=tokyo-night&bg_color=0D1117&color=667eea&line=764ba2&point=f093fb&area=true&hide_border=true&border_radius=15" width="48%" alt="Activity Graph" />  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"><div align="right">
 
+</div>
 
+
+
+---
 
 </div>  <b>About Me</b>  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coding" width="360">
 
+<div align="center">
 
+
+
+### 💭 *"The best way to predict the future is to create it"*
 
 ---  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></div>
 
+**🎯 Open for collaborations** • **🚀 Always learning** • **💡 Passionate about innovation**
 
+
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer&animation=twinkling)
 
 ## 🚀 Featured Projects</h2>
 
+**⭐ Thanks for visiting! Feel free to explore my repositories below ⭐**
 
 
+
+</div>
 Here are some of my favorite projects I've been working on 👇---
 
 
