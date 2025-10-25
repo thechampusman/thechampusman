@@ -1,3 +1,8 @@
+[![Profile Views](https://komarev.com/ghpvc/?username=thechampusman&style=for-the-badge&color=0e75b6)](https://github.com/thechampusman)
+[![GitHub Followers](https://img.shields.io/github/followers/thechampusman?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/thechampusman?tab=followers)
+[![GitHub Stars](https://img.shields.io/github/stars/thechampusman?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/thechampusman)
+
+
 ## Hi, I'm Usman Gour 👋
 
 Full‑stack developer from Delhi. I build fast, reliable apps with Flutter, Python (Flask), and Firebase.
