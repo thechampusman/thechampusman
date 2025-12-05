@@ -7,7 +7,7 @@
 
 Full‑stack developer from Delhi. I build fast, reliable apps with Flutter, Python (Flask), and Firebase.
 
-- Portfolio: https://thechampsoftwares.netlify.app
+- Portfolio: https://thechampusman.dev/
 - Email: usmangourworkid@gmail.com
 - LinkedIn: https://www.linkedin.com/in/thechampusman/
 
